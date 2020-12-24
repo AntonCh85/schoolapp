@@ -1,0 +1,19 @@
+.bottom-panel {
+  margin-top: 20px;
+
+}
+
+.bottom-panel .new-post-label {
+  border-color: #1D1D1D;
+  width: auto;
+  box-shadow: none;
+  flex-grow: 1;
+  margin-right: 3px;
+  background-color: #2B2B2B;
+}
+.btn {
+  /*background-color: #2B2B2B;*/
+  outline: none;
+
+}
+
